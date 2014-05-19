@@ -8,7 +8,7 @@
     </parent>
     <groupId>com.github.stefanbirkner</groupId>
     <artifactId>picover</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>picover</name>
     <description>A PicoContainer that makes it possible to use Spring managed beans.</description>
